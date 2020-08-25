@@ -4,3 +4,5 @@ Open CV provides a very good interface to the user. It helps to craete a lot of 
 
 It is a very creative and interesting tool. 
 
+![](output.avi)
+
